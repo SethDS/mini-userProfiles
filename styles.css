@@ -1,3 +1,6 @@
-.favorite {
-    background-color: lightblue
+.selected {
+    background-color: darkslategray;
+}
+.unselected {
+    background-color: antiquewhite;
 }
